@@ -1,17 +1,20 @@
 {
     "720": {
         "screenshot": [128, 579, 83, 33],
-        "reconnect": [171, 592]
+        "reconnect": [171, 592],
+        "check_reconnect": [24, 350, 60, 16]
     },
 
     "1080": {
         "screenshot": [193, 868, 125, 50],
-        "reconnect": [257, 889]
+        "reconnect": [257, 889],
+        "check_reconnect": [36, 525, 90, 25]
     },
 
     "1440": {
         "screenshot": [257, 1158, 166, 66],
-        "reconnect": [343, 1185]
+        "reconnect": [343, 1185],
+        "check_reconnect": [48, 700, 120, 33]
     },
 
     "2160": {
