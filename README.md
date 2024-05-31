@@ -1,4 +1,7 @@
-# Fortnite Festival Stage AFK XP Macro
+> [!CAUTION]
+> Third party software is against Fortnite TOS.
+
+# Fortnite Festival Stage AFK XP
 
 Earning BP XP in Fortnite is a pain, this is a script that assists in making it easier for people - for those that don't have time to grind. This automates the process of Jam stage by randomly changing songs and instruments at a 60 second interval. This also allows you to complete the daily "Play x instrument for 5 minutes" festival quest.
 
@@ -28,9 +31,6 @@ Yes, I've made a more in-depth macro for Lego Fortnite which has a similar cap, 
 The script can be found here:
 
 [![LegoFortnite](https://img.shields.io/badge/N4GR-Lego%20Fortnite%20XP%20Macro-red?style=for-the-badge&logo=github&logoColor=red&logoSize=auto&labelColor=white)](https://github.com/N4GR/Fortnite-Lego-AFK-XP-Macro)
-
-## 🚀 About Me
-Just a lazy person putting in hours of work to be more lazy...
 
 
 
