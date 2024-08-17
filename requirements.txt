@@ -2,5 +2,5 @@ psutil==5.9.8
 PyAutoGUI==0.9.54
 screeninfo==0.8.1
 tqdm==4.66.2
+opencv-python
 easyocr
-cv2
