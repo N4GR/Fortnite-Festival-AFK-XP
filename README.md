@@ -1,5 +1,8 @@
+> [!WARNING]
+> The main functionality has been made a part of a different script that uses a UI and an EXE, see it at: [N4GR/Fortnite-AFK-XP-Master](https://github.com/N4GR/Fortnite-AFK-XP-Master)
+
 <div align="center">
-  <a href="https://discord.gg/td2rJwcEkT"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png" height="50" alt="Discord Icon"></a>
+  <a href="https://discord.gg/ZYdqSFbPxt"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png" height="50" alt="Discord Icon"></a>
   <img width="12"></img>
   <a href="https://www.youtube.com/@N4GR"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/128/web-google-youtube-icon.png" height="50" alt="YouTube Icon"></a>
   <img width="12"></img>
